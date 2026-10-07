@@ -2,7 +2,7 @@
 
 Étudiante ingénieure en 5e année de Génie logiciel à l'USTHB (Alger), spécialisée en développement full-stack avec React.js, Node.js et Laravel. J'ai aussi une expérience en intelligence artificielle : intégration de modèles de Machine Learning via API REST et pipelines de données.
 
-🎓 À la recherche d'un **stage de fin d'études (PFE)** en IA et développement full-stack.
+
 
 ## 🛠️ Technologies
 
